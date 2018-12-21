@@ -1,5 +1,5 @@
 body {
-  background-image: url('../imagenes/fondo.png');
+  background-image: url("../imagenes/fondo.png");
 }
 
 canvas {
@@ -16,4 +16,5 @@ canvas {
   color: white;
   font-family: monospace;
   visibility: hidden;
+  position: absolute;
 }
